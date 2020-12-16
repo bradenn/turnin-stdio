@@ -1,0 +1,12 @@
+{
+  "name": "turnin-cpp",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.811.0",
+    "dotenv": "^8.2.0"
+  }
+}
